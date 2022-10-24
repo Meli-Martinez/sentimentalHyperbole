@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&family=Work+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crushed&family=Montserrat&family=Raleway&family=Work+Sans:wght@500&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    width: 100%;        
+    height: 50px;
+    overflow: hidden; 
+    background :black;
+    margin-bottom: 30px;
+}
+    
+    
+.logo_header{
+    align-self: end;
+}
+
+header nav {
+    display: flex;
+    flex-direction: row ;
+    align-items: center;
+    justify-content: space-evenly;
+}
+    
+header nav a {
+    display: flex;
+    color:white;
+    text-decoration: none;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body {
+	background-color: #1B100E;
+}
+
+/* --IMAGENES-- */
+
+/* Images Position */
+
+.grid-gallery {
+	display: grid;
+	grid-auto-rows: 500px;
+	gap: 2rem;
+	grid-auto-flow: row dense;
+	margin: 0% 2% 0% 2%;
+}
+
+@media all and (min-width: 768px) {
+	.grid-gallery {
+		grid-template-columns: repeat(2, 1fr);
+	}
+	.title-art {
+		bottom: 2em;
+	}
+}
+
+@media all and (min-width: 1024px) {
+	.grid-gallery {
+		grid-template-columns: repeat(3, 1fr);
+	}
+	.title-art {
+		bottom: 1em;
+	}
+}
+
+.grid-gallery__item:nth-child(11n+1) {
+	grid-column: span 1;
+}
+
+.grid-gallery__item:nth-child(11n+4) {
+	grid-column: span 2;
+	grid-row: span 1;
+}
+
+.grid-gallery__item:nth-child(11n+6) {
+	grid-column: span 3;
+	grid-row: span 1;
+}
+
+.grid-gallery__item:nth-child(11n+7) {
+	grid-column: span 1;
+	grid-row: span 2;
+}
+
+.grid-gallery__item:nth-child(11n+8) {
+	grid-column: span 2;
+	grid-row: span 2;
+}
+
+.grid-gallery__item:nth-child(11n+9) {
+	grid-row: span 3;
+}
+
+/* Image sizes */
+
+.grid-gallery__image {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 10px;
+}
+
+/* Title art */
+
+.title-art {
+	line-height: normal;
+ 	font-size: 18px;
+	background:#f2e4e37c;
+ 	color:white;
+ 	padding: 2%;
+ 	text-align:center;
+	display: flex;
+	justify-content: center;
+	border-radius: 5px;
+	position: relative;
+	bottom: 3em;
+	width: 96%;
+	font-family: 'Crushed', sans-serif;
+	text-underline-offset: none;
+}
+
+/* Effect */
+
+.grid-gallery a {
+	text-decoration: none;
+}
+
+.grid-gallery__image:hover {
+	filter: grayscale(80%);
+	cursor: cell;
+}

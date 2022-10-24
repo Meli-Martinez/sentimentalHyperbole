@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&family=Work+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crushed&family=Montserrat&family=Raleway&family=Work+Sans:wght@500&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    width: 100%;        
+    height: 50px;
+    overflow: hidden; 
+    background :black;
+    margin-bottom: 30px;
+}
+    
+.logo_header{
+    align-self: end;
+}
+
+header nav {
+    display: flex;
+    flex-direction: row ;
+    align-items: center;
+    justify-content: space-evenly;
+}
+    
+header nav a {
+    display: flex;
+    color:white;
+    text-decoration: none;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body {
+	background-color: #1B100E;
+}
+
+/* -- Artist List -- */
+
+.list-artist-title {
+    font-family: 'Crushed', sans-serif;
+    padding: 2% 3%;
+    color: #F2E4E3;
+    font-size: 100px;
+}
+
+.general-container-artist {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.container-artist {
+    display: flex;
+    align-items: center;
+    margin: 2% 3%;
+    background-color: #F2E4E3;
+    border-radius: 6px;
+    padding: 2% 0%;
+}
+
+.general-container-artist img {
+    max-width: 30%;
+    min-width: 10%;
+    width: 20%;
+    margin: 2%;
+    box-shadow: 0 10px 10px 0 #36201C;
+}
+
+.container-artist li {
+    padding: 1% 0%;
+    margin-right: 1%;
+    list-style-type: none;
+    font-size: 22px;
+    font-variant: small-caps;
+    word-break:break-all;
+    margin: 0 0 1em 1em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.container-artist button {
+    width: 9em;
+    height: 4em;
+    border-radius: 8px;
+    background-color: #CB9490;
+    color: #000000;
+    font-weight: bold;
+    border: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container-artist button:hover {
+    transition: 1s;
+    background-color: #36201C;
+    color: #F2E4E3;
+    cursor: pointer;
+}

@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&family=Work+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crushed&family=Montserrat&family=Raleway&family=Work+Sans:wght@500&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.general-container {
+	background-color: #F2E4E3;
+}
+
+/* -- HEADER -- */
+
+header {
+    width: 100%;        
+    height: 50px;
+    overflow: hidden; 
+    background :black;
+    margin-bottom: 30px;
+}
+    
+    
+.logo_header{
+    align-self: end;
+}
+
+header nav {
+    display: flex;
+    flex-direction: row ;
+    align-items: center;
+    justify-content: space-evenly;
+}
+    
+header nav a {
+    display: flex;
+    color:white;
+    text-decoration: none;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+body {
+	background-color: #F2E4E3;
+}
+
+/* -- INFORMATION -- */
+
+/* -- Container -- */
+
+.container-information {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 4%;
+}
+
+/* -- Picture -- */
+
+.picture img {
+    width: 50%;
+    height: 67%;
+    border-radius: 10px;
+    margin: 1%;
+}
+
+/* -- Title -- */
+
+.title {
+    color: #1B100E;
+    margin-bottom: 2%;
+    font-size: 80px;
+}
+
+/* Artist */
+
+.artist {
+    text-decoration: none;
+    color: #36201C;
+    font-size: 40px;
+    font-weight: lighter;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
+}
+
+
+/* -- Description -- */
+
+.description {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.description p{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    padding: 0px 10%;
+}
+
+.text-description {
+    color: #36201C;
+    text-align: center;
+    line-height: 33px;
+    margin-top: 4%;
+}
+
+.author-description {
+    text-align: end;
+    margin-top: 1%;
+}
+
+/* -- Footer -- */
+
+.container-contact {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    background-color: #1B100E;
+    margin-top: 5%;
+    justify-content: space-around;
+}
+
+.picture-logo {
+    margin: 3% 9% 3% 10%;
+}
+
+.container-logo-position {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 3%;
+    justify-content: space-evenly;
+}
+
+.logo-position {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo-position p, a {
+    margin-top: 2%;
+    margin-left: 6%;
+    text-decoration: none;
+    font-size: 20px;
+    color: #F2E4E3;
+}
+
+.social-position {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 10%;
+}
+
+@media all and (min-width: 768px) {
+	.social-position img {
+		width: 20%;
+	}
+}

@@ -1,0 +1,304 @@
+Pintura 2       
+            <img class="picture" src="../../assets/images/art/2.jpg" alt="El mar de hielo">
+            
+            <div class="descripcion">
+                <h1 class="titulo">
+                    El mar de hielo
+                </h1>
+
+                <a href=""><h2>Caspar David</h2></a>
+
+                <p>
+                    “El ser humano es devorado por la fuerza de la naturaleza, y aquí casi no vemos ni su huella. Hay que esforzarse para ver el barco. Más bien es todo, está tranquilo y solitario, congelado. Ni siquiera la herida en el hielo parecen haber hecho un gran daño, comparada con los icebergs que se ven en ese paisaje sublime que forman una especie de castillos congelados en el tiempo.”
+                    Escrito por: Miguel Calvo Santos
+                </p>
+
+    Pintura 3
+               
+            <img class="day" src="../../assets/images/art/3.jpg" alt="El caminante">
+            
+            <div class="descripcion">
+                <h1 class="titulo">
+                    El caminante
+                </h1>
+
+                <a href=""><h2>Caspar David</h2></a>
+
+                <p>
+                    “Aquí vemos a un hombre de espaldas del artista (aunque bastante más grande), seguramente con cara de alucinado al contemplar el paisaje montañoso cubierto de bruma. 
+                    El pintor probablemente acertó al eliminar la línea del horizonte fundiéndose con el cielo. Así da sensación de más inmensidad.
+                    El caso es que esto permite tanto identificarnos con este caminante (o su soledad y aislamiento) como no quitarle el protagonismo al paisaje.
+                    Este cuadro de Friedrich es, en definitiva, el paradigma de la gran idea romántica: ese instante en el que el hombre se siente sobrecogido por la belleza, natural o espiritual.”
+                    
+                    Escrito por: Fulwood Lampkin
+                </p>
+
+    Pintura 4
+                
+            <img class="picture" src="../../assets/images/art/4.jpg" alt="El Temerario remolcado a su último atraque para el desguace">
+            
+            <div class="descripcion">
+                <h1 class="titulo">
+                    El Temerario remolcado a su último atraque para el desguace
+                </h1>
+
+                <a href=""><h2>William Turner</h2></a>
+
+                <p>
+                    “En el cuadro vemos al barco “El temerario” (por su nombre ya suponemos que vivió tiempos de gloria) remolcado hacia un dique para ser desguazado. Es arrastrado hacia su muerte, y además lo hace un barco de vapor, menos bonito, pero más funcional, acorde a los tiempos industriales que se estaban viviendo en la época.”
+                    Escrito por: Miguel Calvo Santos
+                </p>
+            </div>
+        </div>
+    </div>
+
+    Pintura 5
+                <img class="picture" src="../../assets/images/art/5.jpg" alt="The Great Day of His Wrath">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    The Great Day of His Wrath
+                </h1>
+
+                <a href=""><h2>John Martin</h2></a>
+
+                <p>
+                    “Martin al realizar esta serie era muy romántico: <br> expresar la fuerza sublime y apocalíptica de la naturaleza y la impotencia del hombre para combatir la voluntad de Dios. <br> De todas las escenas bíblicas de Martin, ésta presenta su visión más cataclísmica de la destrucción, con una ciudad entera que es arrancada y arrojada al abismo. <br>
+                    Martin sigue de cerca la descripción bíblica, pero añade sus propios efectos sensacionales. <br> Un resplandor rojo sangre arroja una luz espeluznante sobre la escena. Las montañas se transforman en olas ondulantes de roca sólida que aplastan los edificios que se encuentran a su paso. Los relámpagos parten las gigantescas rocas que se precipitan hacia el oscuro abismo, y grupos de figuras indefensas caen inexorablemente hacia el olvido.”
+                </p>
+            </div>
+
+    Pintura 6
+
+                <div class="descripcion">
+                <h1 class="titulo">
+                    Echo and Narcissus
+                </h1>
+
+                <a href=""><h2>John William Waterhouse</h2></a>
+
+                <p>
+                    “Waterhouse nos muestra el momento justo en el que el chico se enamora de sí mismo y presenta a Eco mirando la escena. Todo con su exquisito estilo, tan del gusto victoriano, en el que no faltan detalles por todas partes que actúan de bálsamo a nuestra vista (además de alertarnos del peligro de amarnos demasiado a nosotros mismos…)”
+                    “Según el mito, Narciso era un joven muy hermoso. Tanto, que todas las doncellas se enamoraban de él, pero éste las rechazaba. Una de las rechazadas fue la ninfa Eco, que había sido condenada por la celosa Hera a repetir las últimas palabras de aquello que se le dijera (de ahí el nombre, eco). Narciso, de forma muy maleducada, la mandó a freír espárragos y continuó rompiendo corazones por Grecia.
+                    Pero para castigar a Narciso por su engreimiento, Némesis, la diosa de la venganza, hizo que el joven se enamorara de su propia imagen reflejada en una fuente. Y tan enamorado estaba, que al intentar alcanzarla acabó arrojándose a las aguas. En el sitio donde su cuerpo había caído, creció una hermosa flor, cuyo nombre todos imaginaréis.”
+                    
+                    Escrito por: Miguel Calvo Santos
+                </p>
+            </div>
+    Pintura 7
+
+                <img class="picture" src="../../assets/images/art/7.jpg" alt="La carga de los mamelucos">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    La carga de los mamelucos
+                </h1>
+
+                <a href=""><h2>Francisco de Goya</h2></a>
+
+                <p>
+                    “Hasta que pasó lo que pasó el 2 de mayo de 1808 en Madrid. Un pequeño forcejeo en frente del palacio real acabó con la guardia francesa disparando a bocajarro contra la multitud y los madrileños, huyendo despavoridos o atacando a los gabachos con cualquier arma que tuvieran en la mano. A las pocas horas, Madrid estaba movilizada contra los franceses. Hombres, mujeres, niños y viejos salieron a la calle para matar unos cuantos invasores, aún conscientes de la desventaja. La batalla estaba perdida de antemano.
+                    Pero de día, ese 2 de mayo, aún había esperanza. En toda la ciudad hubo batallas encarnizadas. Quizás la más heavy fue en la emblemática Puerta del Sol, donde los mamelucos (batallones de egipcios con turbante, tristemente célebres en toda Europa por su crueldad), cargaron sin piedad contra los civiles, iniciando la Guerra de Independencia.
+                    Una composición caótica deliberada. Sangre en el suelo. Caballos aterrorizados. Confusión en los dos bandos. Miradas de terror, rabia y locura, y Goya consiguiendo captar un instante, una imagen congelada, que se anticipa unos años a la fotografía.”
+                    
+                    Escrito por: Miguel Calvo Santos
+                </p>
+            </div>
+
+    Pintura 8
+        <div>
+        <div class="contenedor">
+            
+            <img class="picture" src="../../assets/images/art/8.jpg" alt="La carretera de heno">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    La carretera de heno
+                </h1>
+
+                <a href=""><h2>John Constable</h2></a>
+
+                <p>
+                    “Muestra un carro o carreta de heno cerca de Flatford Mill (El molino de Flatford) sobre el río Stour​ en Flatford, Suffolk, donde Constable pasó su infancia. El molino de Flatford pertenecía al padre de Constable y la casa del lado izquierdo pertenecía a un vecino, Willy Lott (un agricultor arrendatario), del que se decía que había nacido en la casa y nunca la había abandonado por más de cuatro días en toda su vida”
+
+                    Escrito por: Diccionario sensagent
+                </p>
+            </div>
+
+    Pintura 9
+                <img class="picture" src="../../assets/images/art/9.jpg" alt="La Muerte de Sardanápalo">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    La Muerte de Sardanápalo
+                </h1>
+
+                <a href=""><h2>Eugene Delacroix</h2></a>
+
+                <p>
+                    “Uno de los episodios más impactantes de la cultura asiria: Sardanápalo, recostado en lo alto de la colcha, observa como todas las amantes son asesinadas por los soldados, antes de proceder al suicidio colectivo ante el inminente asedio de su imperio.”
+                    Escrito por: Raquel Rodríguez
+                </p>
+            </div>
+        </div>
+
+    Pintura 10
+                
+            <img class="picture" src="../../assets/images/art/10.jpg" alt="La vision de la muerte">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    The Great Day Of His Wrath
+                </h1>
+
+                <a href=""><h2>Gustave Dore</h2></a>
+
+                <p>
+                    “Death rides through the sky on a pale horse. And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him.” (La Muerte cabalga por el cielo sobre un caballo pálido. Y miré, y he aquí un caballo pálido; y el que lo montaba se llamaba Muerte, y el infierno lo seguía.")
+                    
+                    Escrito por: Indefinido 
+                </p>
+            </div>
+
+    Pintura 11
+               
+            <div class="descripcion">
+                <h1 class="titulo">
+                    The Great Day Of His Wrath
+                </h1>
+
+                <a href=""><h2>Francisco de Goya</h2></a>
+
+                <p>
+                    “Godoy decidió encargarle al pintor otro cuadro: la misma versión pero vestida. Así podría situarla delante de tal modo que podía descubrirla mediante un mecanismo de poleas y cuerdas. A los aficionados al erotismo les encantan estos jueguecitos.”
+
+                    Escrito por: Miguel Calvo Santos
+                </p>
+            </div>
+
+    Pintura 12
+                
+            <img id="picture" src="../../assets/images/art/12.jpg" alt="Nachtmahr">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    Nachtmahr
+                </h1>
+
+                <a href=""><h2>Johann Heinrich</h2></a>
+                <p>
+                    “En él vemos una mujer dormida poseída por un íncubo, demonio que se presenta en sueños de tipo erótico, apareciendo en segundo plano la cabeza de un caballo de aire fantasmal que contempla la escena. La fisonomía de la mujer pintada corresponde a Anna Landoldt, sobrina de su amigo Johann Caspar Lavater, por la que el pintor sentía una gran pasión”
+
+                    Escrito por: Miguel Calvo Santos
+                </p>
+            </div>
+        </div>
+    </div>
+
+    Pintura 13
+                
+            <img class="picture" src="../../assets/images/art/13.jpg" alt="The Great Day Of His Wrath">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    The Great Day Of His Wrath
+                </h1>
+
+                <a href=""><h2>John Martin</h2></a>
+
+                <p>
+                    “Martin al realizar esta serie era muy romántico: <br> expresar la fuerza sublime y apocalíptica de la naturaleza y la impotencia del hombre para combatir la voluntad de Dios. <br> De todas las escenas bíblicas de Martin, ésta presenta su visión más cataclísmica de la destrucción, con una ciudad entera que es arrancada y arrojada al abismo. <br>
+                    Martin sigue de cerca la descripción bíblica, pero añade sus propios efectos sensacionales. <br> Un resplandor rojo sangre arroja una luz espeluznante sobre la escena. Las montañas se transforman en olas ondulantes de roca sólida que aplastan los edificios que se encuentran a su paso. Los relámpagos parten las gigantescas rocas que se precipitan hacia el oscuro abismo, y grupos de figuras indefensas caen inexorablemente hacia el olvido.”
+                </p>
+            </div>
+        </div>
+
+    Pintura 14
+                <img class="picture" src="../../assets/images/art/14.jpg" alt="Snow Storm: Hannibal and his Army Crossing the Alps">
+            <div class="descripcion">
+                <h1 class="titulo">
+                    Snow Storm: Hannibal and his Army Crossing the Alps
+                </h1>
+
+                <a href=""><h2>John William</h2></a>
+
+                <p>
+                    “En una de las cartas escritas de su puño y letra aún conservadas, Turner explica la creación de esta obra. Rumbo a uno de sus múltiples viajes realizados a Europa, le sorprendió una gran tormenta en el mar.
+                    Él, tan fascinado como estaba por semejante fenómeno de la naturaleza, en lugar de esconderse en su camarote hasta que se calmaran las aguas, pidió a la tripulación que la ataran con una cuerda al mástil para así poder observar y disfrutar la experiencia.
+                    Turner reduce el tema histórico en la parte baja del cuadro, dando protagonismo al fenómeno meteorológico. Trabaja atentamente el cielo y la luz.
+                    El hecho de que la tormenta tenga una forma prácticamente circular hace referencia a la historia: Napoleón contra los ingleses.”
+                    
+                    Escrito por: Laura Cabrera Guerrero
+                </p>
+            </div>
+
+    Pintura 15
+                <img class="picture" src="../../assets/images/art/15.jpg" alt="El soñador">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    El soñador
+                </h1>
+
+                <a href=""><h2>John William</h2></a>
+
+                <p>
+                    “La pintura muestra a un personaje solitario -que bien podría ser el mismo representado en caminante sobre un mar de nubes- sentado en medio de las ruinas del Monasterio de Oybin. El pintor alemán disfrutaba ubicar al ser humano empequeñecido frente a vastos paisajes, para representar aún mejor su fragilidad. Así, el hombre que observamos se ve sumido en la soledad más absoluta, meditando sobre un futuro desconocido e inescrutable.”
+
+                    Escrito por: Paula Loreti
+                </p>
+            </div>
+
+    Pintura 16
+
+            <img class="picture" src="../../assets/images/art/16.jpg" alt="The Kiss">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    The Kiss
+                </h1>
+
+                <a href=""><h2>Francesco Hayez</h2></a>
+
+                <p>
+                    “Un beso seguramente de despedida de estos dos amantes, pues el señor está a punto de marcharse, a juzgar por su vestimenta. No parece que les vaya bien a la pareja. Quizás sea un amor imposible. Además, una criada está vigilando, por lo que es probable que sea también un amor secreto. Todo esto nos remite lógicamente a Romeo y Julieta. Y es que el amor demasiado intenso acaba mal, como sabemos algunas.”
+
+                    Escrito por: Emilia Bolaño
+                </p>
+            </div>
+    Pintura 17
+
+                <img class="picture" src="../../assets/images/art/17.jpg" alt="La balsa de la medusa">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    La balsa de la medusa
+                </h1>
+
+                <a href=""><h2>Theodore Géricault</h2></a>
+
+                <p>
+                    “El naufragio de Méduse fue por culpa de un capitán incompetente y enchufado (abundaban, y supongo que abundan individuos así), y debido a ello 147 personas quedaron a la deriva en una balsa construida apresuradamente.
+                    Todas ellas, excepto 15, murieron durante 13 días de infierno en los que se sufrió hambre, deshidratación, locura e incluso se recurrió al asesinato y al canibalismo.
+                    Gericault, dispuesto a plasmar con realismo esta escena, decidió llevarse unos muertos a su casa. Con ayuda de un amigo médico, Gericault sacó de la morgue algunos miembros cercenados y los llevó a su taller: Piernas, manos, fragmentos de muslos, cabezas decapitadas… Cuentan que esos días su taller apestaba a muerto. Incluso construyó una réplica real de la balsa y ahí apiñó los cachos de carne.”
+                    
+                    Escrito por: Miguel Calvo Santos
+                </p>
+            </div>
+
+    Pintura 18
+              <img class="picture" src="../../assets/images/art/18.jpg" alt="Vista desde la ventana">
+
+            <div class="descripcion">
+                <h1 class="titulo">
+                    Vista desde la ventana
+                </h1>
+
+                <a href=""><h2>Martinus Rørbye</h2></a>
+
+                <p>
+                    “La pintura representa la opinión del artista desde su ventana en casa de sus padres. La vista es de Flådestation Holmen, un astillero naval, con un queche y cuatro buques de guerra, uno de los cuales se encuentra en construcción en las gradas. En la cornisa, frente a las ventanas, se encuentran varias plantas en macetas, y dos moldes de yeso de pies, uno de un niño y el otro de un adulto.3​ Una de las plantas es un esqueje, encerrado en un tubo de vidrio.”
+
+                    Escrito por: Wikipedia
+                </p>
+            </div>
